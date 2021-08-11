@@ -1,6 +1,0 @@
-#!/bin/sh
-
-toplevel_path='git rev-parse --sho-toplevel'
-$toplevel_path/.git/hooks/post-commit.playsound
-
-
